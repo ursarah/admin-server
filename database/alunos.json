@@ -1,1 +1,10 @@
-[{"bairro": "erfg", "contagem_aluno": 1, "email": "trtr@fg", "id": 835039, "nome": "fsfg", "telefone": "referg"}, {"bairro": "fwef", "contagem_aluno": 2, "email": "fawe@dfa", "id": 993175, "nome": "Sarah", "telefone": "wefwe"}]
+[
+    {
+        "bairro": "fwef",
+        "contagem_aluno": 2,
+        "email": "fawe@dfa",
+        "id": 993175,
+        "nome": "Sarah",
+        "telefone": "wefwe"
+    }
+]
